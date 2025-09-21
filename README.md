@@ -1,2 +1,2 @@
 # Kubernetes
-this is new repo for testing argo cd 
+this is new repo for testing argo cd and promethues 
